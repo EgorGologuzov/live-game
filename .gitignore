@@ -1,0 +1,4 @@
+# live-game gitignore
+venv/
+__pycache__/
+.idea/
